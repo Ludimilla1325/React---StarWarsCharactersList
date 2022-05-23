@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Poller One', cursive;
+  font-size: 72px;
+  color: rgb(255, 232, 31);
+  border: 5px solid red;
+}

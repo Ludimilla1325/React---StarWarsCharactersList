@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: "Poller One", cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('./assets/img/fundo.png');
+}
+
+code {
+  font-family: "Poller One", cursive;
+}
